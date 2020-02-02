@@ -1,0 +1,8 @@
+network_A Accuracy: 0.945
+network_A AUC: 0.945
+network_B Accuracy: 0.913
+network_B AUC: 0.912
+ytbig Accuracy: 0.989
+ytbig AUC: 0.989
+ytsmall Accuracy: 0.837
+ytsmall AUC: 0.84

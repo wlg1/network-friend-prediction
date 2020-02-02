@@ -1,0 +1,5 @@
+Avg train_acc for 100 iterations: 0.981
+Avg test_acc for 100 iterations: 0.841
+Avg train_AUC for 100 iterations: 0.98
+Avg test_AUC for 100 iterations: 0.846
+--- 297.56084179878235 seconds ---
