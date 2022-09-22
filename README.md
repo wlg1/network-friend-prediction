@@ -10,7 +10,7 @@ To run grid search in /gridsearch, use:
   gridsearch.py
   
 Libraries used: 
-sklearn 
-numpy
-matplotlib
-networkx
+- sklearn 
+- numpy
+- matplotlib
+- networkx
